@@ -93,8 +93,11 @@ $ sudo vi /etc/sysconfig/network-scripts/ifcfg-enp0s3
 Adicione as seguintes linhas ao final do arquivo:
 
 IPADDR= 192.168.0.54
+
 NETMASK=255.255.255.0
+
 GATEWAY=192.168.0.1 
+
 Altere o BOOTPROTO, substituindo "dhcp" por "static".
 
 ### Alterando DNS
