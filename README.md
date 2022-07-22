@@ -14,13 +14,15 @@ Criar uma apresentação de slides com 1 slide para cada um dos topicos.
 
 3 - Criar uma apresentação de slides com 1 slide para cada um dos topicos:
 
-3.1 - Resuma as informações do arquivo /etc /passwd
+3.1 - Qual a diferença entre o comando "touch teste" e "echo > teste"
 
-3.2 - Qual o comando usado para saber se o firewall esta ativo?
+3.2 - Qual o comando para ver o manual de um comando?
 
-3.3 - Explique o permissionamento 754 em um arquivo
+3.3 - Explique o permissionamento: "-rwxr--r-x"?
 
-3.4 - Explique o que é um NFS 4 - Configurar a relação de confiança entre as duas VMs;
+3.4 - O que faz o comando: systemctl status docker? ;
+
+4- Configurar relação de confiança entre duas VM's;
 
 5 - Fazer o versionamento da atividade;
 
