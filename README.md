@@ -58,7 +58,7 @@ Surgirá a tela "MANUAL PARTITIONING", clique em "+" para adicionar as partiçõ
 
 Clique em "Done" e em "Accept Changes".
 
-## USER SETTINGS
+ USER SETTINGS
 
 ROOTPASSWORD = Crie a senha do Root;
 
